@@ -1,0 +1,5 @@
+BuiltContentOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\en-US\cab1.cab
+BuiltPdbOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\en-US\HelloWorldInstaller.wixpdb
+BuiltTargetOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\en-US\HelloWorldInstaller.msi
+Input	..\x64\Release\HelloWorldSource.exe
+Intermediate	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\en-US\cab1.cab

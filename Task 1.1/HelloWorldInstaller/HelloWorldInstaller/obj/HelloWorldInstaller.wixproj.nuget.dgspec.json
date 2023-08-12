@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\brank\\source\\repos\\SWE40006 Software Deployment and Evolution\\Portfolio Task 1\\Task 1.1\\HelloWorldInstaller\\HelloWorldInstaller\\HelloWorldInstaller.wixproj": {}
+  },
+  "projects": {
+    "C:\\Users\\brank\\source\\repos\\SWE40006 Software Deployment and Evolution\\Portfolio Task 1\\Task 1.1\\HelloWorldInstaller\\HelloWorldInstaller\\HelloWorldInstaller.wixproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brank\\source\\repos\\SWE40006 Software Deployment and Evolution\\Portfolio Task 1\\Task 1.1\\HelloWorldInstaller\\HelloWorldInstaller\\HelloWorldInstaller.wixproj",
+        "projectName": "HelloWorldInstaller",
+        "projectPath": "C:\\Users\\brank\\source\\repos\\SWE40006 Software Deployment and Evolution\\Portfolio Task 1\\Task 1.1\\HelloWorldInstaller\\HelloWorldInstaller\\HelloWorldInstaller.wixproj",
+        "packagesPath": "C:\\Users\\brank\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brank\\source\\repos\\SWE40006 Software Deployment and Evolution\\Portfolio Task 1\\Task 1.1\\HelloWorldInstaller\\HelloWorldInstaller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\brank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "targetAlias": "native",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "native": {
+          "targetAlias": "native"
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

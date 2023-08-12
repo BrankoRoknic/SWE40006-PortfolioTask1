@@ -1,0 +1,8 @@
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\HelloWorldInstaller.wixproj.CoreCompileInputs.cache
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\bin\x64\Release\en-US\HelloWorldInstaller.msi
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\bin\x64\Release\en-US\cab1.cab
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\bin\x64\Release\en-US\HelloWorldInstaller.wixpdb
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\en-US\cab1.cab
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\en-US\HelloWorldInstaller.msi
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\en-US\HelloWorldInstaller.wixpdb
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.1\HelloWorldInstaller\HelloWorldInstaller\obj\x64\Release\HelloWorldInstaller.wixproj.BindTracking-en-US.txt

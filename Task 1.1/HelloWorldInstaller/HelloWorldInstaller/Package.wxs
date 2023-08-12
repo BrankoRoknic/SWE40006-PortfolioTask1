@@ -1,0 +1,21 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="HelloWorld" 
+		   Manufacturer="Branko's Software"
+		   ProductCode="*"
+		   UpgradeCode="2ef3e640-c2ac-42ed-a694-1b3cc04e73fa"
+		   Language="1033"
+		   Version="1.0.0.0">
+	<Feature Id="Complete">
+		<ComponentRef Id="ExecutableApplication" />
+	</Feature>
+	<MajorUpgrade AllowSameVersionUpgrades="yes" 
+				  DowngradeErrorMessage="ERROR: Downgrade blocked, a later version of this program is already installed. Setup will now exit" />
+	<StandardDirectory Id="ProgramFiles64Folder">
+		<Directory Id="FolderInProgramFiles" Name="HelloWorld">
+			<Component Id="ExecutableApplication" Guid="1327363d-dabe-4668-9ab7-4bd73a39db3d">
+				<File Id="HelloWorldSource" Name="HelloWorld.exe" Source="..\x64\Release\HelloWorldSource.exe" />
+			</Component>
+		</Directory>
+	</StandardDirectory>
+  </Package>
+</Wix>
