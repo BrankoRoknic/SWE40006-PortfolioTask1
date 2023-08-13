@@ -1,0 +1,8 @@
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\bin\x64\Debug\en-US\AreaCalculatorMSIPackage.msi
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\bin\x64\Debug\en-US\cab1.cab
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\bin\x64\Debug\en-US\AreaCalculatorMSIPackage.wixpdb
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Debug\AreaCalculatorMSIPackage.wixproj.CoreCompileInputs.cache
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Debug\en-US\cab1.cab
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Debug\en-US\AreaCalculatorMSIPackage.msi
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Debug\en-US\AreaCalculatorMSIPackage.wixpdb
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Debug\AreaCalculatorMSIPackage.wixproj.BindTracking-en-US.txt

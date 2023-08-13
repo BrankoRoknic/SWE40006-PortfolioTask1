@@ -1,0 +1,5 @@
+BuiltContentOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Release\en-US\cab1.cab
+BuiltPdbOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Release\en-US\AreaCalculatorInstaller.wixpdb
+BuiltTargetOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Release\en-US\AreaCalculatorInstaller.msi
+Input	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\x64\Release\AreaCalculator.exe
+Intermediate	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculatorMSIPackage\obj\x64\Release\en-US\cab1.cab

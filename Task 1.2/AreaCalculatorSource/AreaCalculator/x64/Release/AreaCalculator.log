@@ -1,0 +1,7 @@
+﻿  AreaCalculator.cpp
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\AreaCalculator\AreaCalculator.cpp(5,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AreaCalculator.vcxproj -> C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.2\AreaCalculatorSource\x64\Release\AreaCalculator.exe

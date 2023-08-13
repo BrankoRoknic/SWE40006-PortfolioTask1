@@ -1,0 +1,12 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="AreaCalculatorInstaller" Manufacturer="Branko's Software" Version="1.0.0.1" UpgradeCode="d4a79bfa-249b-4e87-a825-d0019adc4315" ProductCode="*">
+    <MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+	  <Feature Id="Complete" Level="1">
+		  <ComponentRef Id="ExecutableApplication" />
+	  </Feature>
+    <Feature Id="Main">
+      <ComponentGroupRef Id="ExampleComponents" />
+    </Feature>
+  </Package>
+</Wix>
+    

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AreaCalculator", "AreaCalculator\AreaCalculator.vcxproj", "{9B35D7C2-E4E0-4E41-B62A-099449188FA4}"
+EndProject
+Project("{B7DD6F7E-DEF8-4E67-B5B7-07EF123DB6F0}") = "AreaCalculatorInstaller", "AreaCalculatorMSIPackage\AreaCalculatorInstaller.wixproj", "{99F59E99-F68F-4074-8E87-4BA6C8D5110F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Debug|ARM64.ActiveCfg = Debug|x64
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Debug|ARM64.Build.0 = Debug|x64
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Debug|x64.ActiveCfg = Debug|x64
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Debug|x64.Build.0 = Debug|x64
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Debug|x86.Build.0 = Debug|Win32
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Release|ARM64.ActiveCfg = Release|x64
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Release|ARM64.Build.0 = Release|x64
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Release|x64.ActiveCfg = Release|x64
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Release|x64.Build.0 = Release|x64
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Release|x86.ActiveCfg = Release|Win32
+		{9B35D7C2-E4E0-4E41-B62A-099449188FA4}.Release|x86.Build.0 = Release|Win32
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Debug|ARM64.Build.0 = Debug|ARM64
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Debug|x64.ActiveCfg = Debug|x64
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Debug|x64.Build.0 = Debug|x64
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Debug|x86.ActiveCfg = Debug|x86
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Debug|x86.Build.0 = Debug|x86
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Release|ARM64.ActiveCfg = Release|ARM64
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Release|ARM64.Build.0 = Release|ARM64
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Release|x64.ActiveCfg = Release|x64
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Release|x64.Build.0 = Release|x64
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Release|x86.ActiveCfg = Release|x86
+		{99F59E99-F68F-4074-8E87-4BA6C8D5110F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE00FE2F-B6A9-4135-8A45-4F6E572AC77F}
+	EndGlobalSection
+EndGlobal

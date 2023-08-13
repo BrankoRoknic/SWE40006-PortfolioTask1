@@ -1,0 +1,9 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ExampleComponents" Directory="FolderInProgramFiles">
+      <Component Id="ExecutableApplication" Guid="99d81814-3bfd-40cd-87ce-780f4473b69c">
+        <File Id="AreaCalculaterExecutable" Source="AreaCalculator.exe"/>
+      </Component>
+    </ComponentGroup>
+  </Fragment>
+</Wix>
