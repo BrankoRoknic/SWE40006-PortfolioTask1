@@ -1,0 +1,6 @@
+BuiltContentOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\en-US\cab1.cab
+BuiltPdbOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\en-US\AreaCalculatorWithDLL.wixpdb
+BuiltTargetOutput	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\en-US\AreaCalculatorWithDLL.msi
+Input	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\x64\Release\App.exe
+Input	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\x64\Release\GameDLL.dll
+Intermediate	C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\en-US\cab1.cab

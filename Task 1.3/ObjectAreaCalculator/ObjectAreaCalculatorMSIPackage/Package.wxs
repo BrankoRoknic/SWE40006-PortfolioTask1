@@ -1,0 +1,9 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="ObjectAreaCalculator Installer" Manufacturer="TODO Manufacturer" Version="1.0.0.0" UpgradeCode="3924d2cd-ccc2-4d0e-91b9-ac0bdda6acc5">
+    <MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+
+    <Feature Id="Main">
+      <ComponentGroupRef Id="ExampleComponents" />
+    </Feature>
+  </Package>
+</Wix>

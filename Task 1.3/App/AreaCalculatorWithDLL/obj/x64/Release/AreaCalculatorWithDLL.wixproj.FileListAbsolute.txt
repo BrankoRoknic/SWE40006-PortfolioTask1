@@ -1,0 +1,8 @@
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\bin\x64\Release\en-US\AreaCalculatorWithDLL.msi
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\bin\x64\Release\en-US\cab1.cab
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\bin\x64\Release\en-US\AreaCalculatorWithDLL.wixpdb
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\AreaCalculatorWithDLL.wixproj.CoreCompileInputs.cache
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\en-US\cab1.cab
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\en-US\AreaCalculatorWithDLL.msi
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\en-US\AreaCalculatorWithDLL.wixpdb
+C:\Users\brank\source\repos\SWE40006 Software Deployment and Evolution\Portfolio Task 1\Task 1.3\App\AreaCalculatorWithDLL\obj\x64\Release\AreaCalculatorWithDLL.wixproj.BindTracking-en-US.txt

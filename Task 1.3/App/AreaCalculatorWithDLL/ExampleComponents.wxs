@@ -1,0 +1,13 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ExampleComponents" Directory="FolderInProgramFiles">
+      <Component Id="ExacutableApplication" Guid="4f80b7b5-eefd-49f0-b227-605e83263cb7">
+        <File Name="AreaCalculator.exe" Id="AreaCalculatorDLLExecutable" Source="App.exe" />
+      </Component>
+	  <Component Id="ApplicationDLL" Guid="6d8d413e-9e81-4067-bac0-2c4628a4b227">
+		<File Name="GameDLL.dll" Id="AreaCalculatorDLL" Source="GameDLL.dll" />
+	  </Component>  
+    </ComponentGroup>
+  </Fragment>
+</Wix>
+
